@@ -9,21 +9,21 @@ const users = [
   work: "Full stack Zoom host",
   location: "Amman, Jordan",
   info: "I enjoy hosting zoom meetings and I don't mind being the Co-Host",
-  facebook: "",
-  linkedin: "",
-  github: ""
+  facebook: "https://www.facebook.com/ashraf.aljabari.790/",
+  linkedin: "https://www.linkedin.com/in/ashraf-aljabari/",
+  github: "https://github.com/ashraf-aljabari"
 },
 {
   id: 2,
+  fullName: "Imposter",
   work: "Full stack Imposter",
   profileImage:"https://avatars3.githubusercontent.com/u/60710271?s=460&u=4beabb3ede0403226fde0a59fbc995c15fbaf6c3&v=4",
   image: "https://imgix.bustle.com/uploads/image/2020/10/23/4f1aad59-3894-4ece-b752-f7e9711493db-among-us-win-as-imposters.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg",
-  fullName: "Imposter",
   location: "Space Ship",
   info: "I enjoy killing people with cold blood 😈",
-  facebook: "",
-  linkedin: "",
-  github: "",
+  facebook: "https://www.facebook.com/ashraf.aljabari.790/",
+  linkedin: "https://www.linkedin.com/in/dana-toughoj/",
+  github: "https://github.com/danatoughoj",
 },
 {
   id: 3,
@@ -33,9 +33,9 @@ const users = [
   work: "Full stack engineer",
   location: "Amman, Jordan",
   info: "When i was engineer i used to build towers",  
-  facebook: "",
-  linkedin: "",
-  github: ""
+  facebook: "https://www.facebook.com/ashraf.aljabari.790/",
+  linkedin: "https://www.linkedin.com/in/monther-twaissi/",
+  github: "https://github.com/Monther-Twaissi"
 },
 {
   id: 4,
@@ -45,9 +45,9 @@ const users = [
   work: "Full stack killing dana",
   location: "Space ship",
   info: "where is dana ?", 
-  facebook: "",
-  linkedin: "",
-  github: ""
+  facebook: "https://www.facebook.com/ashraf.aljabari.790/",
+  linkedin: "https://www.linkedin.com/in/ashraf-aljabari/",
+  github: "https://github.com/mhmdbdour"
 },
 {
   id: 5,
@@ -57,9 +57,9 @@ const users = [
   work: "Full stack Harry potter",
   location: "Hogwarts",
   info: "Ashraf is not imposter 😢",  
-  facebook: "",
-  linkedin: "",
-  github: ""
+  facebook: "https://www.facebook.com/ashraf.aljabari.790/",
+  linkedin: "https://www.linkedin.com/in/ashraf-aljabari/",
+  github: "https://github.com/Sarah-Eswed"
 },
 ];
 
