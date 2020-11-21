@@ -19,8 +19,6 @@
   position: relative;
 }
 
-/* .container {
-} */
 .profile-img {
   width: 100px;
   height: 100px;
@@ -28,7 +26,6 @@
   position: absolute;
   top: -65px;
   left: 85px;
-  /* border: 5px solid #a4d9f9; */
 }
 
 .image-top {
@@ -118,7 +115,7 @@
   position: absolute;
   right: 8%;
   top: 15%;
-  color: white;
+  color: #1da1f2;
 }
 
 .sub-con {
